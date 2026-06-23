@@ -110,21 +110,7 @@ Run `minikube start` and then `minikube tunnel` to run locally.
   "status": "ok"
 }
 ```
- 
----
- 
-## Screen Recording
-**Link:** [INSERT SCREEN RECORDING LINK HERE]
- 
-### What the Recording Demonstrates
-- All Kubernetes objects deployed and running in the `nagp-k8s` namespace
-- Live API call retrieving employee records from the PostgreSQL database
-- API pod self-healing — pod deleted and automatically regenerated
-- Database pod self-healing with data persistence — pod deleted, data survives restart
-- Rolling update deployment strategy in action
-- HPA configuration and autoscaling behavior
-- FinOps resource metrics via `kubectl top`
- 
+
 ---
  
 ## Tech Stack
